@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shotgun-dev
+- 👀 I’m interested in web design and data analytics.
+- 🌱 I’m currently learning alot of things related to automation.
+- 💞️ I’m not looking to collaborate on anything at the moment.
+- 📫 How to reach me? That's a secret. 
